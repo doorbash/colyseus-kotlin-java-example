@@ -1,9 +1,6 @@
 package classes;
 
 import io.colyseus.annotations.SchemaField;
-import io.colyseus.example.java.classes.Cell;
-import io.colyseus.example.java.classes.Player;
-import io.colyseus.example.java.classes.PrimitivesTest;
 import io.colyseus.serializer.schema.Schema;
 import io.colyseus.serializer.schema.types.ArraySchema;
 import io.colyseus.serializer.schema.types.MapSchema;
