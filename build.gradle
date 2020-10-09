@@ -15,7 +15,7 @@ dependencies {
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation "io.github.doorbash:colyseus-kotlin:0.14.0-alpha.14"
+    implementation "io.github.doorbash:colyseus-kotlin:0.14.0-alpha.15"
 }
 
 task run(dependsOn: classes, type: JavaExec) {
